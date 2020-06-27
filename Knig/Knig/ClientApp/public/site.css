@@ -1,0 +1,74 @@
+footer {
+    background-color: rgb(107, 189, 79);
+    text-align: center;
+    position: fixed; /* Фиксированное положение */
+    left: 0;
+    bottom: 0; /* Левый нижний угол */
+    padding: 10px; /* Поля вокруг текста */
+    width: 100%;
+}
+
+a, p, button {
+    font-size: 16pt;
+    font-family: 'Times New Roman';
+    color: black;
+    text-decoration: none;
+}
+
+header {
+    background-color: rgb(107, 189, 79);
+}
+
+.nam {
+    position: absolute;
+    left: 150px;
+    top: 25px;
+}
+.tel {
+    position: absolute; 
+    left: 40%;
+    top: 2px;
+}
+
+.ssilk {
+    position: absolute;
+    right: 10px;
+    top: 1px;
+    padding-right: 30px;
+}
+.logo {
+    width: 300px;
+}
+.ssilk a {
+        display: inline-block;
+        padding: 25px;
+}
+
+.search {
+    position: absolute;
+    left: 32%;
+    top: 55px;
+}
+
+.se {
+    resize: none;
+    height: 40px;
+}
+
+.bucket {
+    position: absolute;
+    right: 50px;
+    top: 58px;
+}
+
+.bu {
+    position: absolute;
+    right: 150px;
+    top: 64px;
+    width: 50px;
+}
+
+.root {
+    position: relative;
+  
+}

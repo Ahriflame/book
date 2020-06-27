@@ -1,0 +1,151 @@
+﻿a, p, button {
+    font-size: 16pt;
+    font-family: 'Times New Roman';
+    color: black;
+    text-decoration: none;
+}
+
+.blocks {
+
+    width: 80%;
+    height:10%;
+    background-color: rgb(226, 255, 216);
+    padding: 130px;
+    left: 100px;
+}
+
+.blocks img {
+    padding-top: 20px;
+    padding-left: 70px;
+    padding-right: 60px;
+}
+.arrow1 img {
+    position: absolute;
+    right: 240px;
+    top: 260px;
+}
+.arrow2 img {
+    position: absolute;
+    right: 240px;
+}
+.min1 {
+    left: 100px;
+    background-color: #d1f4c6;
+    width: 13%;
+    height: 260px;
+    position: absolute;
+}
+.b {
+    background-color: rgb(107, 189, 79);
+    width: 100px;
+    font-size: 11pt;
+    position: absolute;
+    left: 80px;
+}
+    .min1 p {
+        text-align: center;
+        font-size: 12pt;
+    }
+.min2 p {
+    text-align: center;
+    font-size: 12pt;
+}
+.min3 p {
+    text-align: center;
+    font-size: 12pt;
+}
+.min4 p {
+    text-align: center;
+    font-size: 12pt;
+}
+.min5 p {
+    text-align: center;
+    font-size: 12pt;
+}
+.min6 p {
+    text-align: center;
+    font-size: 12pt;
+}
+.min7 p {
+    text-align: center;
+    font-size: 12pt;
+}
+.min8 p {
+    text-align: center;
+    font-size: 12pt;
+}
+.min9 p {
+    text-align: center;
+    font-size: 12pt;
+}
+.min10 p {
+    text-align: center;
+    font-size: 12pt;
+}
+.min2 {
+    left: 400px;
+    background-color: #d1f4c6;
+    width: 13%;
+    height: 260px;
+    position: absolute;
+}
+.min3 {
+    left: 700px;
+    background-color: #d1f4c6;
+    width: 13%;
+    height: 260px;
+    position: absolute;
+}
+.min4 {
+    left: 1000px;
+    background-color: #d1f4c6;
+    width: 13%;
+    height: 260px;
+    position: absolute;
+}
+.min5 {
+    left: 1300px;
+    background-color: #d1f4c6;
+    width: 13%;
+    height: 260px;
+    position: absolute;
+}
+.min6 {
+    left: 100px;
+    background-color: #d1f4c6;
+    width: 13%;
+    height: 260px;
+    position: absolute;
+}
+.min7 {
+    left: 400px;
+    background-color: #d1f4c6;
+    width: 13%;
+    height: 260px;
+    position: absolute;
+}
+.min8 {
+    left: 700px;
+    background-color: #d1f4c6;
+    width: 13%;
+    height: 260px;
+    position: absolute;
+}
+.min9 {
+    left: 1000px;
+    background-color: #d1f4c6;
+    width: 13%;
+    height: 260px;
+    position: absolute;
+}
+.min10 {
+    left: 1300px;
+    background-color: #d1f4c6;
+    width: 13%;
+    height: 260px;
+    position: absolute;
+}
+
+.os {
+    position: relative;
+}
